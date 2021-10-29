@@ -20,9 +20,9 @@ It's important to note that all of this happened before the first home computers
 
 David Ahl knew about the new version of Star Trek written by Leedom and asked permission to publish it in his new book, BASIC COMPUTER GAMES — Microcomputer edition, released in 1978. It would be the first computer book to sell 1 million copies. Some people say it's because the name Star Trek was in it. True or not, the game became hugely popular, mainly because, in the meantime, home computers had arrived. Suddenly there were thousands of machines capable of running BASIC and, consequently, BASIC computer games.
 
-But now, let's play the game. We will see the first turns in detail.
+But now, let's play the game. 
 
-## Let's play the 1978 Super Star Trek
+## Let's play 1978 Super Star Trek
 When the game starts, it generates the galaxy, and then it tells you the 3 main things you have to know: how many Klingons you have to destroy, how many days you have, how many starbases are present.
 
 ![26511](https://user-images.githubusercontent.com/14840708/139320567-5ce4120f-07fe-45b6-b132-1a5a838d3fdf.jpg)
